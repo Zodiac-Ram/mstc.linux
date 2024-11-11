@@ -1,4 +1,5 @@
 #!/bin/bash
+#Created by Mason Peckham <mason.peckham03@gmail.com>
 
 groups=('Sales' 'HumanResources' 'TechnicalOperations' 'Helpdesk' 'Research')
 
